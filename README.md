@@ -1,4 +1,4 @@
-# make_icons.py
+# MakeIcons
 
 ## Overview
 
